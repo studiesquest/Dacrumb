@@ -1,3 +1,3 @@
 # Dacrumb
 chromebook hack
-https://homeworkplanet.github.io
+https://studiesquest.github.io
