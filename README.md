@@ -1,4 +1,4 @@
-  <p align="center">
+<p align="center">
   <img src="https://img.shields.io/badge/STUDIES-QUEST-00e676?style=for-the-badge&labelColor=050e08&color=00e676" alt="StudiesQuest">
 </p>
 
@@ -7,11 +7,17 @@
 <p align="center">
   <b>100+ free unblocked games — NO popup ads, NO tracking, NO lag.</b><br>
   Built for Chromebook sign-in page bypass. Just open and play.
+  <p>
+  SOURCE CODE IS OBFUSCATED BECAUSE SITE CODE IS GETTING STOLEN
+  </p>
+  <p>
   Some embedded games on this site may display advertisements within their iframes. Please note that these ads are provided by the original game sources, and are not created, controlled, or managed by me.
+  </p>
+  (right now I am using banner ads that you can close completely and it wont distract you. I will use these ads to buy a real link to connect to the site and afterwards I will permanantly remove ads from the site!)
 </p>
 
 <p align="center">
-  <a href="https://studiesquest.github.io"><img src="https://img.shields.io/badge/▶%20PLAY%20NOW-00e676?style=for-the-badge&logoColor=white&labelColor=0a1e10" alt="Play Now"></a>
+  <a href="https://studiesquest.website"><img src="https://img.shields.io/badge/▶%20PLAY%20NOW-00e676?style=for-the-badge&logoColor=white&labelColor=0a1e10" alt="Play Now"></a>
 </p>
 
 ---
@@ -21,7 +27,7 @@
 > On school Chromebooks, you can access this site **directly from the sign-in screen** — no login needed. GoGuardian and most school safety filters don't apply on the sign-in page.
 
 <p align="center">
-  <a href="https://studiesquest.github.io">
+  <a href="https://studiesquest.website">
     <img src="https://img.shields.io/badge/🔓_CLICK_HERE_TO_PLAY_FROM_SIGN--IN_PAGE-00e676?style=for-the-badge&labelColor=050e08" alt="Sign-In Bypass Link">
   </a>
 </p>
@@ -42,7 +48,7 @@ Since the sign-in page doesn't support cursor lock, games are rated:
 ## 📦 What's Inside
 
 - **Zero Pop-Ups**: A premium, clean experience with no annoying pop-up ads ruining your games.
-- **200+ games** all working perfectly fine!
+- **100+ games** all working perfectly fine!
 - Subway Surfers, Retro Bowl, Geometry Dash, Slope, FNAF series, Cookie Clicker, Tetris, Minecraft, and way more
 - Search & filter by playability
 - Favorites system (saved locally)
@@ -60,3 +66,5 @@ style.css   — emerald glassmorphism theme
 main.js     — search, filters, favorites, modal
 games.js    — game list with embed URLs & thumbnails
 ```
+
+---
