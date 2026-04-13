@@ -5,13 +5,13 @@
 <h1 align="center">🎮 StudiesQuest</h1>
 
 <p align="center">
-  <b>200+ free unblocked games — NO popup ads, NO tracking, NO lag.</b><br>
+  <b>100+ free unblocked games — NO popup ads, NO tracking, NO lag.</b><br>
   Built for Chromebook sign-in page bypass. Just open and play.
   <p>
   SOURCE CODE IS OBFUSCATED BECAUSE SITE CODE IS GETTING STOLEN
   </p>
   <p>
-  Some embedded games on this site may display advertisements within their iframes. Please note that these ads are provided by the original game sources, and are not created, controlled, or managed by me.
+Some embedded games on this site may display advertisements within their iframes. Please note that these ads are provided by the original game sources, and are not created, controlled, or managed by me.
 </p>
 
 <p align="center">
@@ -28,6 +28,10 @@
   <a href="https://studiesquest.website">
     <img src="https://img.shields.io/badge/🔓_CLICK_HERE_TO_PLAY_FROM_SIGN--IN_PAGE-00e676?style=for-the-badge&labelColor=050e08" alt="Sign-In Bypass Link">
   </a>
+</p>
+
+<p align="center">
+  If you are not redirected, <a href="https://studiesquest.website/">click here</a>.
 </p>
 
 
