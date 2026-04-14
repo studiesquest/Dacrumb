@@ -5,17 +5,17 @@
 <h1 align="center">🎮 StudiesQuest</h1>
 
 <p align="center">
-  <b>100+ free unblocked games — NO popup ads, NO tracking, NO lag.</b><br>
+  <b>200+ free unblocked games — NO pop-up ads, NO tracking, NO lag.</b><br>
   Built for Chromebook sign-in page bypass. Just open and play.
-  <p>
-  SOURCE CODE IS OBFUSCATED BECAUSE SITE CODE IS GETTING STOLEN
-  </p>
-  <p>
-Some embedded games on this site may display advertisements within their iframes. Please note that these ads are provided by the original game sources, and are not created, controlled, or managed by me.
 </p>
 
 <p align="center">
-  <a href="https://studiesquest.github.io"><img src="https://img.shields.io/badge/▶%20PLAY%20NOW-00e676?style=for-the-badge&logoColor=white&labelColor=0a1e10" alt="Play Now"></a>
+  <p>SOURCE CODE IS OBFUSCATED BECAUSE SITE CODE IS GETTING STOLEN</p>
+  <p>Some embedded games on this site may display advertisements within their iframes. Please note that these ads are provided by the original game sources, and are not created, controlled, or managed by me.</p>
+</p>
+
+<p align="center">
+  <a href="https://redirecthelper.github.io"><img src="https://img.shields.io/badge/▶%20PLAY%20NOW-00e676?style=for-the-badge&logoColor=white&labelColor=0a1e10" alt="Play Now"></a>
 </p>
 
 ---
@@ -25,7 +25,7 @@ Some embedded games on this site may display advertisements within their iframes
 > On school Chromebooks, you can access this site **directly from the sign-in screen** — no login needed. GoGuardian and most school safety filters don't apply on the sign-in page.
 
 <p align="center">
-  <a href="https://studiesquest.github.io">
+  <a href="https://redirecthelper.github.io">
     <img src="https://img.shields.io/badge/🔓_CLICK_HERE_TO_PLAY_FROM_SIGN--IN_PAGE-00e676?style=for-the-badge&labelColor=050e08" alt="Sign-In Bypass Link">
   </a>
 </p>
@@ -46,11 +46,11 @@ Since the sign-in page doesn't support cursor lock, games are rated:
 ## 📦 What's Inside
 
 - **Zero Pop-Ups**: A premium, clean experience with no annoying pop-up ads ruining your games.
-- **100+ games** all working perfectly fine!
+- **200+ games** all working perfectly fine!
 - Subway Surfers, Retro Bowl, Geometry Dash, Slope, FNAF series, Cookie Clicker, Tetris, Minecraft, and way more
 - Search & filter by playability
 - Favorites system (saved locally)
-- Fully static — GitHub Pages, zero backend
+- Fully static — No backend, no tracking.
 
 ---
 
@@ -66,10 +66,11 @@ games.js    — game list with embed URLs & thumbnails
 ```
 
 ---
+
 <p>
-  Copyright (c) 2025 StudiesQuest
-All Rights Reserved.
-This software and associated documentation files (the "Software") are protected by copyright law. You may not copy, modify, distribute, publish, or use the Software for any purpose without the express prior written consent of the copyright owner.
-DISCLAIMER OF WARRANTY
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+  Copyright (c) 2025 StudiesQuest<br>
+  All Rights Reserved.<br>
+  This software and associated documentation files (the "Software") are protected by copyright law. You may not copy, modify, distribute, publish, or use the Software for any purpose without the express prior written consent of the copyright owner.<br><br>
+  DISCLAIMER OF WARRANTY<br>
+  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 </p>
